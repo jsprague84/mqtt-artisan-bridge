@@ -1,6 +1,6 @@
 [package]
 name = "mqtt-artisan-bridge"
-version = "0.1.0"
+version = "0.5.0"
 edition = "2021"
 authors = ["Coffee Roaster <roaster@example.com>"]
 description = "MQTT to Artisan bridge for ESP32 coffee roaster control"
