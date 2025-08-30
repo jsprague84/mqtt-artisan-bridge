@@ -1,0 +1,8 @@
+{
+  "mqtt_host": "localhost",
+  "mqtt_port": 1883,
+  "device_id": "esp32_roaster_01",
+  "serial_port": "/tmp/ttyV0",
+  "baud_rate": 115200,
+  "log_level": "info"
+}

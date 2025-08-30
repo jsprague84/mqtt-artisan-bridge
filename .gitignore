@@ -1,0 +1,6 @@
+/target/
+Cargo.lock
+*.log
+/tmp/
+.DS_Store
+*.pid
